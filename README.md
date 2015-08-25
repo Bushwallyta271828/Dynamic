@@ -1,2 +1,2 @@
 # Dynamic
-This is a repository containing Python code that implements Dynamic Aperture and Dynamic Blocking algorithms for Photometry (Astronomy).
+THIS REPOSITORY IS OUT OF DATE!!! SEE Dynamic2 INSTEAD. THANK YOU!
